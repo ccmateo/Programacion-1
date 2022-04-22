@@ -42,7 +42,7 @@ function triangulo(){
     
     const area2 = document.querySelector("#inp_altura").value
 
-    const resultado = area1 * area2 / 2
+    const resultado = area1 * area2 /2
 
     alert (resultado)
 }
